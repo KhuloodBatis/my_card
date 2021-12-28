@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+this app look like card page view the avatar image with few information like name , name job , phone number and email addres
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2021-12-28-11-13-21](https://user-images.githubusercontent.com/50932099/147544611-52ce5c2a-cb41-4f4d-9438-a17d92fb75b0.png)
